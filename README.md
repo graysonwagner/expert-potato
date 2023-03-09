@@ -3,12 +3,14 @@ Module 13
 
 Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 
+Building an e-commerce website and modifying the starter code to fill criteria.
+
 ## User story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-Acceptance criteria
+## Acceptance criteria
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
