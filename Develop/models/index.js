@@ -14,7 +14,7 @@ Category.hasMany(Product, {
 
 // foreign key tag
 
-//foreign key product tag
+//foreign key ProductTag
 
 module.exports = {
   Product,
